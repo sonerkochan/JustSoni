@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JustSoni
-- 👀 
+- 👋 Hi, I’m @JustSoni 👀 
 - 🏫 Studying Software Engineering at University of Ruse, Bulgaria
      and SoftUni💻
 
